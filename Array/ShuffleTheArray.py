@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         x=len(nums)
