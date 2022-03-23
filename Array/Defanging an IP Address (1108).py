@@ -10,4 +10,4 @@ class Solution:
 #Syntax : string.replace(old, new, count)
 #old – old substring you want to replace. 
 #new – new substring which would replace the old substring.
-#count – the number of times you want to replace the old substring with the new substring. (Optional ) 
+#count – the number of times you want to replace the old substring with the new substring. (Optional )  
