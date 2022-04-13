@@ -7,5 +7,7 @@ class Solution:
         for i in items:
             if i[dic[ruleKey]] == ruleValue:
                 count += 1
+            else:
+                pass
         return count
         
