@@ -5,8 +5,8 @@ def getMinMax( a, n):
     # return a[0],a[len(a) - 1]
     
 
-    min_ = a[1]
-    max_ = a[1]
+    min_ = a[0]
+    max_ = a[0]
     
     for i in range (len(a)):
         if (a[i] >= max_):
